@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingearse",
+        "uuid": 9475290,
+        "checksum": "c3phu"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
